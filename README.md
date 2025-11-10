@@ -8,7 +8,7 @@ El proyecto tiene como propósito integrar y analizar información operativa y f
 
 ## 🧩 **Arquitectura general del proyecto**
 
-El flujo de datos sigue el siguiente proceso::
+El flujo de datos sigue el siguiente proceso:
 
 1. **Extracción, Transformación y Carga (ETL):**
    - Desarrollado en Pentaho Data Integration (PDI).
