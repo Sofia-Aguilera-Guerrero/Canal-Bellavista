@@ -19,7 +19,7 @@ El flujo de datos sigue el siguiente proceso::
    - Incluye relaciones, vistas normalizadas y un esquema preparado para análisis en Power BI.
 
 3. **Visualización y análisis:**
-   - Tableros interactivos creados en Microsoft Power BI, que muestran indicadores operativos (caudales, distribución de agua) y financieros (morosidad, recaudación, flujo de caja).
+   - Tableros interactivos creados en Microsoft Power BI, que muestran indicadores operativos (caudales, distribución de agua) y financieros (morosidad, recaudación).
 
 ---
 **Autores**
